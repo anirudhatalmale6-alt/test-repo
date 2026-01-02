@@ -1,1 +1,1 @@
-App token test
+Hello from App token test
